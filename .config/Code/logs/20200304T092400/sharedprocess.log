@@ -1,0 +1,8 @@
+[2020-03-04 09:24:03.486] [sharedprocess] [info] main {"machineId":"7654ae91f14e71349a0da24271d69d0c906cae64c9334596050ef16a8197bc93","windowId":2}
+[2020-03-04 09:24:43.482] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-03-04 10:53:25.455] [sharedprocess] [info] Installing extension: techer.open-in-browser
+[2020-03-04 10:53:25.903] [sharedprocess] [info] Downloaded extension: techer.open-in-browser /tmp/ed04d05a-bbb1-40cb-afd6-7418f8faaeeb
+[2020-03-04 10:53:25.968] [sharedprocess] [info] Extracted extension to /home/wilder/.vscode/extensions/.techer.open-in-browser-2.0.0: techer.open-in-browser
+[2020-03-04 10:53:25.968] [sharedprocess] [info] Renamed to /home/wilder/.vscode/extensions/techer.open-in-browser-2.0.0
+[2020-03-04 10:53:25.968] [sharedprocess] [info] Installation completed. techer.open-in-browser
+[2020-03-04 10:53:25.984] [sharedprocess] [info] Extensions installed successfully: techer.open-in-browser

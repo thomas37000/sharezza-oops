@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gnome-control-center.desktop" open-window-count="0" score="19" last-seen="1583248027"/>
+    <application id="firefox.desktop" open-window-count="1" score="9130" last-seen="1583504805"/>
+    <application id="sublime-text_subl.desktop" open-window-count="1" score="556" last-seen="1583504643"/>
+    <application id="org.gnome.Screenshot.desktop" open-window-count="0" score="7" last-seen="1583279786"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="102" last-seen="1583504673"/>
+    <application id="update-manager.desktop" open-window-count="0" score="0" last-seen="1583253586"/>
+    <application id="gnome-language-selector.desktop" open-window-count="0" score="1" last-seen="1583247923"/>
+    <application id="eog.desktop" open-window-count="0" score="1" last-seen="1583279735"/>
+    <application id="code.desktop" open-window-count="0" score="2524" last-seen="1583412965"/>
+    <application id="google-chrome.desktop" open-window-count="0" score="369" last-seen="1583427758"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="0" score="14" last-seen="1583484531"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="1858" last-seen="1583504901"/>
+    <application id="org.gnome.Software.desktop" open-window-count="0" score="16" last-seen="1583329604"/>
+  </context>
+</application-state>

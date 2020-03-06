@@ -1,0 +1,499 @@
+{
+	"folder_history":
+	[
+		"/home/wilder/Desktop/quêtes/intégration HTML CSS/08 - CSS : Flexbox",
+		"/home/wilder/Desktop/quêtes/intégration HTML CSS/07 - CSS : responsive web design",
+		"/home/wilder/Desktop/quêtes/intégration HTML CSS/06 - CSS : box model"
+	],
+	"last_version": 3211,
+	"last_window_id": 5,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"back",
+						"background-color\tproperty"
+					],
+					[
+						"inline",
+						"inline-block\tdisplay"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 150.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/wilder/Desktop/quêtes/intégration HTML CSS/06 - CSS : box model/style.css",
+				"/home/wilder/Desktop/quêtes/intégration HTML CSS/06 - CSS : box model/index.html"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"di",
+						"display\tproperty"
+					],
+					[
+						"flex",
+						"flex-grow\tproperty"
+					],
+					[
+						"a",
+						"auto"
+					],
+					[
+						"border-raius",
+						"border-radius\tproperty"
+					],
+					[
+						"back",
+						"background-color\tproperty"
+					],
+					[
+						"inline",
+						"inline-block\tdisplay"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n    <head>\n        <meta charset=\"UTF-8\">\n        <title>Find the precious!</title>\n        <link rel=\"stylesheet\" href=\"style.css\">\n    </head>\n    <body>\n        <nav>\n            <ul>\n                <li>FindThePrecious.com</li>\n                <li class=\"navfellows\">Fellows</li>\n                <li>Contact us</li>\n            </ul>\n        </nav>\n        <section>\n            <div class=\"carousel\"></div>\n        </section>\n        <section>\n            <h2 id=\"fellows\">Fellows wanted dead <span>(or alive if you want to eat them later)</span></h2>\n        </section>\n        <section id=\"flex\">\n            <article></article>\n            <article></article>\n            <article></article>         \n        </section>\n        <form>\n            <h2 id=\"contact\">Contact us</h2>\n            <input type=\"email\" placeholder=\"@\">\n            <input type=\"text\" placeholder=\"&#8962;\">\n            <input type=\"text\" placeholder=\"I have seen one of them\">\n            <textarea placeholder=\"Your message\"></textarea>\n            <input id=\"send\" type=\"submit\" value=\"Send !\">\n        </form>\n        <footer>\n            <ul>\n                <li>About Us</li>\n                <li>Fellows</li>\n                <li>Join our army</li>\n                \n            </ul>\n\n            <ul>\n                <li>FAQ</li>\n                <li>Reward Conditions</li>\n                <li>Legal mentions</li>\n                <li>Sauron4ever.com</li>\n                <li>Follow him</li>\n            </ul>\n        </footer>\n    </body>\n</html>\n\n",
+					"file": "/home/wilder/Desktop/quêtes/intégration HTML CSS/08 - CSS : Flexbox/index.html",
+					"file_size": 1567,
+					"file_write_time": 132279010020823170,
+					"settings":
+					{
+						"buffer_size": 1569,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/wilder/Desktop/quêtes/intégration HTML CSS/08 - CSS : Flexbox/style.css",
+					"settings":
+					{
+						"buffer_size": 1693,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/wilder/sharezza-oops/index.html",
+					"settings":
+					{
+						"buffer_size": 125,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 150.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/wilder/Desktop/quêtes/intégration HTML CSS/08 - CSS : Flexbox"
+			],
+			"file_history":
+			[
+				"/home/wilder/git_sharezza-oops/sharezza-oops/index.html",
+				"/home/wilder/git_sharezza-social/sharezza-social/les commandes tutorials car pastebin pas possible",
+				"/home/wilder/Desktop/quêtes/Git Hub/02 - GitHub et Git : les fondamentaux/index.html",
+				"/home/wilder/Desktop/quêtes/intégration HTML CSS/07 - CSS : responsive web design/style.css",
+				"/home/wilder/Desktop/quêtes/intégration HTML CSS/06 - CSS : box model/style.css",
+				"/home/wilder/Desktop/quêtes/intégration HTML CSS/06 - CSS : box model/index.html"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/wilder/Desktop/quêtes/intégration HTML CSS/08 - CSS : Flexbox"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/wilder/Desktop/quêtes/intégration HTML CSS/08 - CSS : Flexbox/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1569,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										290,
+										290
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 1,
+							"file": "/home/wilder/Desktop/quêtes/intégration HTML CSS/08 - CSS : Flexbox/style.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1693,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										493,
+										493
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 571.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/wilder/sharezza-oops/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 125,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										125,
+										125
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,1600,900",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 1,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 3,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

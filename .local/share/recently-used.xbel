@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///tmp/mozilla_wilder0/code_1.42.1-1581432938_amd64.deb" added="2020-03-02T16:38:42Z" modified="2020-03-02T16:38:42Z" visited="2020-03-02T16:38:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-02T16:38:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Desktop/qu%C3%AAtes/int%C3%A9gration%20HTML%20CSS/index.html" added="2020-03-02T16:49:16Z" modified="2020-03-05T12:53:58Z" visited="2020-03-02T16:49:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-03-04T10:41:23Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Desktop/qu%C3%AAtes/Deliveroo%20Ux%20design/Screenshot from 2020-03-03 15-57-40.png" added="2020-03-03T14:57:40Z" modified="2020-03-05T12:53:58Z" visited="2020-03-03T14:57:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-03T14:57:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Pictures/utile%20deliveroo.png" added="2020-03-03T23:50:34Z" modified="2020-03-03T23:50:34Z" visited="2020-03-03T23:50:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2020-03-03T23:50:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Desktop/qu%C3%AAtes/Deliveroo%20Ux%20design/utlisable deliveroo.png" added="2020-03-03T23:51:38Z" modified="2020-03-05T12:53:58Z" visited="2020-03-03T23:51:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2020-03-03T23:51:38Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-03-03T23:55:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Desktop/qu%C3%AAtes/Deliveroo%20Ux%20design/désirable.png" added="2020-03-03T23:52:09Z" modified="2020-03-05T12:53:58Z" visited="2020-03-03T23:52:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2020-03-03T23:52:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Desktop/qu%C3%AAtes/Deliveroo%20Ux%20design/accessible.png" added="2020-03-03T23:52:45Z" modified="2020-03-05T12:53:58Z" visited="2020-03-03T23:52:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2020-03-03T23:52:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Desktop/qu%C3%AAtes/Deliveroo%20Ux%20design/localisable.png" added="2020-03-03T23:53:24Z" modified="2020-03-05T12:53:58Z" visited="2020-03-03T23:53:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2020-03-03T23:53:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Desktop/qu%C3%AAtes/Deliveroo%20Ux%20design/crédible.png" added="2020-03-03T23:54:25Z" modified="2020-03-05T12:53:58Z" visited="2020-03-03T23:54:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2020-03-03T23:54:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Desktop/qu%C3%AAtes/Deliveroo%20Ux%20design/profitable.png" added="2020-03-03T23:54:53Z" modified="2020-03-05T12:53:58Z" visited="2020-03-03T23:54:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2020-03-03T23:54:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Desktop/qu%C3%AAtes/Deliveroo%20Ux%20design/utile.png" added="2020-03-03T23:56:26Z" modified="2020-03-05T12:53:58Z" visited="2020-03-03T23:56:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2020-03-03T23:56:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Desktop/qu%C3%AAtes/int%C3%A9gration%20HTML%20CSS/07 - CSS : responsive web design/index.html" added="2020-03-04T08:25:46Z" modified="2020-03-05T12:53:58Z" visited="2020-03-04T08:25:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-03-04T14:14:51Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Desktop/qu%C3%AAtes/int%C3%A9gration%20HTML%20CSS/03 structurer une page Html/index.html" added="2020-03-04T08:49:00Z" modified="2020-03-05T12:53:58Z" visited="2020-03-04T08:49:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-03-04T16:19:18Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_wilder0/google-chrome-stable_current_amd64.deb" added="2020-03-04T09:57:24Z" modified="2020-03-04T09:57:24Z" visited="2020-03-04T09:57:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-04T09:57:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Desktop/qu%C3%AAtes/int%C3%A9gration%20HTML%20CSS/05 - CSS : sélecteurs et propriétés/index.html" added="2020-03-04T10:29:03Z" modified="2020-03-05T12:53:58Z" visited="2020-03-04T10:29:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-03-04T10:29:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Desktop/qu%C3%AAtes/int%C3%A9gration%20HTML%20CSS/05 - CSS : sélecteurs et propriétés/style.css" added="2020-03-04T10:30:11Z" modified="2020-03-05T12:53:58Z" visited="2020-03-04T10:30:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-03-04T10:40:32Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Desktop/qu%C3%AAtes/int%C3%A9gration%20HTML%20CSS/05 - CSS : sélecteurs et propriétés" added="2020-03-04T10:41:06Z" modified="2020-03-05T12:53:58Z" visited="2020-03-04T10:41:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-03-04T15:44:16Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Desktop/qu%C3%AAtes/int%C3%A9gration%20HTML%20CSS/06 - CSS : box model/index.html" added="2020-03-04T12:58:22Z" modified="2020-03-05T12:53:58Z" visited="2020-03-04T12:58:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-03-04T12:58:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Desktop/qu%C3%AAtes/int%C3%A9gration%20HTML%20CSS/07 - CSS : responsive web design/style.css" added="2020-03-04T13:00:07Z" modified="2020-03-05T12:53:58Z" visited="2020-03-04T13:00:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-03-04T13:00:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Pictures/Screenshot%20from%202020-03-04%2016-23-38.png" added="2020-03-04T15:23:38Z" modified="2020-03-04T15:23:38Z" visited="2020-03-04T15:23:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-04T15:23:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Desktop/qu%C3%AAtes/int%C3%A9gration%20HTML%20CSS/06 - CSS : box model/style.css" added="2020-03-04T15:35:53Z" modified="2020-03-05T12:53:58Z" visited="2020-03-04T15:35:54Z">
+    <title>style.css</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code file:///home/wilder/Desktop/intC3A9gration20HTML20CSS/0720-20CSS20:20responsive20web20design/style.css&apos;" modified="2020-03-04T15:35:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Desktop/qu%C3%AAtes/int%C3%A9gration%20HTML%20CSS/06 - CSS : box model" added="2020-03-04T15:36:54Z" modified="2020-03-05T12:53:58Z" visited="2020-03-04T15:36:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-03-04T15:57:19Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Pictures/Screenshot%20from%202020-03-04%2017-01-48.png" added="2020-03-04T16:01:48Z" modified="2020-03-04T16:01:48Z" visited="2020-03-04T16:01:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-04T16:01:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Pictures/Screenshot%20from%202020-03-04%2017-41-49.png" added="2020-03-04T16:41:49Z" modified="2020-03-04T16:41:49Z" visited="2020-03-04T16:41:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-04T16:41:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Desktop/qu%C3%AAtes/int%C3%A9gration%20HTML%20CSS/07 - CSS : responsive web design" added="2020-03-04T16:54:56Z" modified="2020-03-05T12:53:58Z" visited="2020-03-04T16:54:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-03-04T16:54:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Pictures/Screenshot%20from%202020-03-04%2017-55-41.png" added="2020-03-04T16:55:41Z" modified="2020-03-04T16:55:41Z" visited="2020-03-04T16:55:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-04T16:55:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Desktop/qu%C3%AAtes/Git%20Hub/01 - GitHub : un petit tour !/index.html" added="2020-03-05T08:26:06Z" modified="2020-03-05T12:54:00Z" visited="2020-03-05T08:26:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-03-05T08:26:06Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-03-05T12:48:44Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Desktop/qu%C3%AAtes/int%C3%A9gration%20HTML%20CSS/06%20-%20CSS%20:%20box%20model" added="2020-03-05T12:57:50Z" modified="2020-03-05T12:57:50Z" visited="2020-03-05T12:57:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-03-05T12:57:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Desktop/qu%C3%AAtes/int%C3%A9gration%20HTML%20CSS/07%20-%20CSS%20:%20responsive%20web%20design" added="2020-03-05T13:56:29Z" modified="2020-03-05T13:56:29Z" visited="2020-03-05T13:56:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-03-05T13:56:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Desktop/qu%C3%AAtes/int%C3%A9gration%20HTML%20CSS/06%20-%20CSS%20:%20box%20model/style.css" added="2020-03-05T14:24:02Z" modified="2020-03-05T14:24:02Z" visited="2020-03-05T14:24:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-03-05T14:24:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Desktop/qu%C3%AAtes/int%C3%A9gration%20HTML%20CSS/08%20-%20CSS%20:%20Flexbox" added="2020-03-05T15:07:40Z" modified="2020-03-05T15:07:40Z" visited="2020-03-05T15:07:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-03-05T15:07:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Desktop/qu%C3%AAtes/int%C3%A9gration%20HTML%20CSS/07%20-%20CSS%20:%20responsive%20web%20design/style.css" added="2020-03-05T15:21:50Z" modified="2020-03-05T15:21:50Z" visited="2020-03-05T15:21:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-03-05T15:21:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Pictures/Screenshot%20from%202020-03-05%2016-25-59.png" added="2020-03-05T15:25:59Z" modified="2020-03-05T15:25:59Z" visited="2020-03-05T15:25:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-05T15:25:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Pictures/Screenshot%20from%202020-03-05%2016-33-04.png" added="2020-03-05T15:33:04Z" modified="2020-03-05T15:33:04Z" visited="2020-03-05T15:33:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-05T15:33:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/.gitconfig" added="2020-03-06T08:48:42Z" modified="2020-03-06T08:48:42Z" visited="2020-03-06T08:48:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-03-06T08:48:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Desktop/qu%C3%AAtes/Git%20Hub/02%20-%20GitHub%20et%20Git%20:%20les%20fondamentaux/index.html" added="2020-03-06T08:52:48Z" modified="2020-03-06T08:52:48Z" visited="2020-03-06T08:52:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-03-06T08:52:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/git_sharezza-social/sharezza-social/index.html" added="2020-03-06T09:11:50Z" modified="2020-03-06T09:11:50Z" visited="2020-03-06T09:11:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-03-06T09:11:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/Pictures/Screenshot%20from%202020-03-06%2010-12-42.png" added="2020-03-06T09:12:42Z" modified="2020-03-06T09:12:42Z" visited="2020-03-06T09:12:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-03-06T09:12:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/git_sharezza-social/sharezza-social/les%20commandes%20tutorials%20car%20pastebin%20pas%20possible" added="2020-03-06T10:15:53Z" modified="2020-03-06T10:15:53Z" visited="2020-03-06T10:15:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-03-06T10:15:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/git_sharezza-oops/sharezza-oops/index.html" added="2020-03-06T12:05:00Z" modified="2020-03-06T14:20:33Z" visited="2020-03-06T12:05:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-03-06T14:20:33Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilder/sharezza-oops/index.html" added="2020-03-06T14:29:52Z" modified="2020-03-06T14:29:52Z" visited="2020-03-06T14:29:52.689124Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2020-03-06T14:29:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

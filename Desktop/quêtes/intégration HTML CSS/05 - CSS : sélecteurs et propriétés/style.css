@@ -1,0 +1,26 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+ 
+/* Français : Remplace les points ci-dessous par un sélecteur ciblant toutes les images de la page. */
+img {
+    width: 300px;
+    height: 300px;
+    /* Français : Remplace par une propriété arrondissant les angles de l'image. */
+    border-radius: 50px;
+}
+ 
+/* Français : Remplace les points ci-dessous par une classe "hover-effect" avec une pseudo-classe :hover.
+Cette classe doit cibler la première image et la troisième image de la page. */
+.hover-effect:hover {
+    /* Français : Remplace par une propriété modifiant l'opacité. */
+    opacity: 0.8;
+    cursor: pointer;
+}
+    /* Français : Remplace les points ci-dessous par un sélecteur ciblant la seconde image de la page.
+    N'utilise pas de classe ou d'id ! */
+img:nth-of-type(2) {
+    filter: grayscale(100%);
+/* Français : Remplace par une propriété faisant paraître l'image en noir et blanc. */
+
+}
